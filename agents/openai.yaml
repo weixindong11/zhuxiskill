@@ -1,0 +1,6 @@
+interface:
+  display_name: "朱熹读书法"
+  short_description: "面向重要理论文献的朱熹式慢读、精读和体察流程"
+  default_prompt: "Use $zhuxi to read this important theoretical paper deeply and produce a staged close-reading guide."
+policy:
+  allow_implicit_invocation: false
